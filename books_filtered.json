@@ -1,0 +1,52 @@
+[
+    {
+        "title": "It's Only the Himalayas",
+        "price": 45.17,
+        "category": "Travel"
+    },
+    {
+        "title": "Full Moon over Noah\u2019s Ark: An Odyssey to Mount Ararat and Beyond",
+        "price": 49.43,
+        "category": "Travel"
+    },
+    {
+        "title": "See America: A Celebration of Our National Parks & Treasured Sites",
+        "price": 48.87,
+        "category": "Travel"
+    },
+    {
+        "title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+        "price": 36.94,
+        "category": "Travel"
+    },
+    {
+        "title": "Under the Tuscan Sun",
+        "price": 37.33,
+        "category": "Travel"
+    },
+    {
+        "title": "A Summer In Europe",
+        "price": 44.34,
+        "category": "Travel"
+    },
+    {
+        "title": "The Great Railway Bazaar",
+        "price": 30.54,
+        "category": "Travel"
+    },
+    {
+        "title": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+        "price": 23.21,
+        "category": "Travel"
+    },
+    {
+        "title": "Neither Here nor There: Travels in Europe",
+        "price": 38.95,
+        "category": "Travel"
+    },
+    {
+        "title": "1,000 Places to See Before You Die",
+        "price": 26.08,
+        "category": "Travel"
+    }
+]
